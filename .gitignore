@@ -1,0 +1,5 @@
+# Project exclude paths
+/edu-dao/target/
+/edu-manager/target/
+/edu-model/target/
+/edu-service/target/
